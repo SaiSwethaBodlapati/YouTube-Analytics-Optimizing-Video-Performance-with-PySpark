@@ -1,0 +1,26 @@
+
+    RECOMMENDATIONS FOR YOUTUBE CONTENT CREATORS
+
+    Based on our analysis of trending YouTube videos, here are data-backed recommendations:
+
+    1. WHEN TO POST:
+       - Best day: Friday
+       - Best hours: 9.0:00, 4.0:00, 7.0:00
+       - Videos typically take 4 days to trend after posting
+
+    2. CONTENT STRATEGY:
+       - Most successful categories: Music, Science & Technology, Film & Animation
+       - Aim for 10 tags per video
+       - Ideal title length: 52 characters
+
+    3. REGIONAL CONSIDERATIONS:
+       - Top performing channels: Mv Ryhan, MrBeast, Thanh Thảo Official
+       - Check country_category_analysis.csv for category preferences by channel
+       - Check country_hour_analysis.csv for best posting times by channel
+
+    4. ENGAGEMENT TIPS:
+       - Categories with highest engagement: Howto & Style, Comedy, Pets & Animals
+       - Including >20 tags yields highest engagement
+
+    For detailed insights, please refer to the generated CSV files and visualizations.
+    
