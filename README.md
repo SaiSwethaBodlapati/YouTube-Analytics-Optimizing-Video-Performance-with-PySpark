@@ -4,11 +4,11 @@
 This project analyzes YouTube trending videos data to uncover insights about video performance, engagement patterns, and optimal posting strategies. Using PySpark for large-scale data processing, the project examines factors that contribute to a video's success, including posting times, content categories, metadata features, and engagement metrics.
 
 ## Dataset
-Contains trending video data with views, likes, comments, and metadata.
-Includes publish date, trending date, and category info.
-Used to analyze engagement patterns and optimal posting strategies.
-Limited to trending videos only (survivorship bias).
-Download here: ![https://drive.google.com/file/d/1sv9nXXWf9YUisAMH7XIpzX-oyfFF-sPQ/view?usp=drive_link]
+- Contains trending video data with views, likes, comments, and metadata.
+- Includes publish date, trending date, and category info.
+- Used to analyze engagement patterns and optimal posting strategies.
+- Limited to trending videos only (survivorship bias).
+- Download here: https://drive.google.com/file/d/1sv9nXXWf9YUisAMH7XIpzX-oyfFF-sPQ/view?usp=drive_link
 ## Key Features
 
 ### 1. Data Cleaning and Preparation
